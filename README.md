@@ -1,52 +1,34 @@
-Simple Projects 🚀
+# Dev Practice Projects 🚀
 
-A collection of small projects built while learning and improving my programming and web development skills.
+A collection of frontend, backend, full-stack and AI practice projects, built while learning and improving my programming skills.
 
-This repository contains simple projects that focus on practicing programming concepts, problem-solving, JavaScript, HTML, CSS, and other technologies.
+## 📁 Repository Structure
 
-📂 Projects
+| Folder | What goes here |
+|---|---|
+| frontend/ | HTML, CSS and JavaScript practice projects |
+| backend/ | Backend practice projects |
+| fullstack/ | Mini full-stack projects |
+| ai-ml/ | Beginner AI and ML projects |
+| misc/ | Everything else |
 
-Project
-🧮 Calculator
-🔐 Password Generator
-🕐 Analog Clock
-📝 To-Do List
+## 🧩 Projects
 
-«More projects will be added as I continue learning and building.»
+### Frontend
 
-🛠️ Technologies Used
+| Project | Description | Tech |
+|---|---|---|
+| [Analog Clock](frontend/analog-clock) | A working analog clock | HTML, CSS, JavaScript |
+| [Calculator](frontend/calculator) | A basic calculator | HTML, CSS, JavaScript |
+| [Password Generator](frontend/password-generator) | Generates random passwords | HTML, CSS, JavaScript |
+| [To-Do List](frontend/to-do-list) | A simple task list | HTML, CSS, JavaScript |
 
-- HTML
-- CSS
-- JavaScript
-- Java
-- Git & GitHub
+### Backend
 
-🎯 Purpose
+Coming soon.
 
-The purpose of this repository is to:
-
-- Practice programming and web development concepts
-- Build small projects from scratch
-- Improve problem-solving skills
-- Track my learning and progress
-- Experiment with new ideas and technologies
-
-📌 Future Projects
-
-Some future projects may include:
-
-- Quiz Game
-- Weather App
-- Stopwatch
-- More JavaScript and web development projects
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Indresh Pratap Singh
 
-Computer Science & Engineering Student
-
-⭐ Note
-
-These projects are primarily created for learning, practice, and experimentation.
+GitHub: [@indreshps5](https://github.com/indreshps5)
