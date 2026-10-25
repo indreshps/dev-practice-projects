@@ -72,10 +72,6 @@ Hibernate automatically creates or updates the required database tables when the
 
 ## Clone the Repository
 
-Clone the repository and navigate to the project directory.
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your actual GitHub repository URL.
-
 ```bash
 git clone https://github.com/indreshps/dev-practice-projects
 cd dev-practice-projects/backend/campus-lost-and-found
