@@ -7,8 +7,7 @@ A collection of frontend, backend, full-stack and AI practice projects, built wh
 | Folder | What goes here |
 |---|---|
 | frontend/ | HTML, CSS and JavaScript practice projects |
-| backend/ | Backend practice projects |
-| fullstack/ | Mini full-stack projects |
+| backend-fullstack/ | Backend (API-only) and full-stack practice projects |
 | ai-ml/ | Beginner AI and ML projects |
 | misc/ | Everything else |
 
@@ -23,7 +22,17 @@ A collection of frontend, backend, full-stack and AI practice projects, built wh
 | [Password Generator](frontend/password-generator) | Generates random passwords | HTML, CSS, JavaScript |
 | [To-Do List](frontend/to-do-list) | A simple task list | HTML, CSS, JavaScript |
 
-### Backend
+### Backend & Full Stack
+
+| Project | Description | Tech |
+|---|---|---|
+| [Campus Lost and Found](backend-fullstack/campus-lost-and-found) | REST API for reporting and finding lost items on campus (frontend planned) | Java, Spring Boot, Maven |
+
+### AI / ML
+
+Coming soon.
+
+### Misc
 
 Coming soon.
 
