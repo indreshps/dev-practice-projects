@@ -31,4 +31,4 @@ Coming soon.
 
 Indresh Pratap Singh
 
-GitHub: [@indreshps5](https://github.com/indreshps5)
+GitHub: [@indreshps](https://github.com/indreshps)
